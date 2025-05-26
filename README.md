@@ -7,7 +7,9 @@ O diferencial deste projeto é que ele **salva as informações do usuário**, g
 ---
 
 **Status do Projeto:** Concluído  
-**Tecnologias Utilizadas:** HTML, CSS, JavaScript (com uso de LocalStorage)
+**Tecnologias Utilizadas:** HTML, CSS, JavaScript
+
+Link de acesso: https://gyane001.github.io/ToDoList/
 
 ---
 
